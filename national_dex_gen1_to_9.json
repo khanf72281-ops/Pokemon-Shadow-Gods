@@ -1,0 +1,59 @@
+{
+    "generations": {
+        "1": {
+            "region": "Kanto",
+            "range": [1, 151],
+            "starters": ["Bulbasaur", "Charmander", "Squirtle"],
+            "iconics": ["Pikachu", "Charizard", "Gengar", "Dragonite", "Mewtwo", "Mew"]
+        },
+        "2": {
+            "region": "Johto",
+            "range": [152, 251],
+            "starters": ["Chikorita", "Cyndaquil", "Totodile"],
+            "iconics": ["Tyranitar", "Steelix", "Heracross", "Lugia", "Ho-Oh"]
+        },
+        "3": {
+            "region": "Hoenn",
+            "range": [252, 386],
+            "starters": ["Treecko", "Torchic", "Mudkip"],
+            "iconics": ["Sceptile", "Blaziken", "Swampert", "Salamence", "Metagross", "Rayquaza"]
+        },
+        "4": {
+            "region": "Sinnoh",
+            "range": [387, 493],
+            "starters": ["Turtwig", "Chimchar", "Piplup"],
+            "iconics": ["Infernape", "Lucario", "Garchomp", "Dialga", "Palkia", "Giratina", "Arceus"]
+        },
+        "5": {
+            "region": "Unova",
+            "range": [494, 649],
+            "starters": ["Snivy", "Tepig", "Oshawott"],
+            "iconics": ["Haxorus", "Zoroark", "Hydreigon", "Zekrom", "Reshiram", "Kyurem"]
+        },
+        "6": {
+            "region": "Kalos",
+            "range": [650, 721],
+            "starters": ["Chespin", "Fennekin", "Froakie"],
+            "iconics": ["Greninja", "Talonflame", "Aegislash", "Xerneas", "Yveltal", "Zygarde"]
+        },
+        "7": {
+            "region": "Alola",
+            "range": [722, 809],
+            "starters": ["Rowlet", "Litten", "Popplio"],
+            "iconics": ["Incineroar", "Decidueye", "Mimikyu", "Solgaleo", "Lunala", "Necrozma"]
+        },
+        "8": {
+            "region": "Galar",
+            "range": [810, 905],
+            "starters": ["Grookey", "Scorbunny", "Sobble"],
+            "iconics": ["Cinderace", "Corviknight", "Dragapult", "Zacian", "Zamazenta", "Eternatus"]
+        },
+        "9": {
+            "region": "Paldea",
+            "range": [906, 1025],
+            "starters": ["Sprigatito", "Fuecoco", "Quaxly"],
+            "iconics": ["Meowscarada", "Baxcalibur", "Kingambit", "Koraidon", "Miraidon", "Terapagos"]
+        }
+    },
+    "total_species_count": 1025
+}
