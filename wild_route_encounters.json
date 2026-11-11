@@ -1,0 +1,137 @@
+{
+  "wild_route_encounters": {
+    "early_game_routes": {
+      "kanto_route_1": {
+        "location_type": "Tall Grass",
+        "day_encounters": [
+          {"species": "Pidgey", "level_range": [2, 5], "spawn_rate_percent": 50},
+          {"species": "Rattata", "level_range": [2, 4], "spawn_rate_percent": 45},
+          {"species": "Pikachu", "level_range": [3, 5], "spawn_rate_percent": 5}
+        ],
+        "night_encounters": [
+          {"species": "Rattata", "level_range": [2, 5], "spawn_rate_percent": 60},
+          {"species": "Hoothoot", "level_range": [3, 5], "spawn_rate_percent": 30},
+          {"species": "Pikachu", "level_range": [3, 5], "spawn_rate_percent": 10}
+        ]
+      },
+      "johto_route_29": {
+        "location_type": "Tall Grass & Trees",
+        "day_encounters": [
+          {"species": "Sentret", "level_range": [2, 5], "spawn_rate_percent": 40},
+          {"species": "Pidgey", "level_range": [2, 4], "spawn_rate_percent": 35},
+          {"species": "Hoppip", "level_range": [3, 5], "spawn_rate_percent": 25}
+        ],
+        "night_encounters": [
+          {"species": "Hoothoot", "level_range": [2, 5], "spawn_rate_percent": 50},
+          {"species": "Rattata", "level_range": [2, 4], "spawn_rate_percent": 35},
+          {"species": "Spinarak", "level_range": [3, 5], "spawn_rate_percent": 15}
+        ]
+      },
+      "hoenn_route_101": {
+        "location_type": "Tall Grass",
+        "day_encounters": [
+          {"species": "Zigzagoon", "level_range": [2, 4], "spawn_rate_percent": 45},
+          {"species": "Wurmple", "level_range": [2, 3], "spawn_rate_percent": 45},
+          {"species": "Poochyena", "level_range": [2, 4], "spawn_rate_percent": 10}
+        ],
+        "night_encounters": [
+          {"species": "Poochyena", "level_range": [2, 4], "spawn_rate_percent": 50},
+          {"species": "Zigzagoon", "level_range": [2, 4], "spawn_rate_percent": 35},
+          {"species": "Wurmple", "level_range": [2, 3], "spawn_rate_percent": 15}
+        ]
+      },
+      "sinnoh_route_201": {
+        "location_type": "Tall Grass",
+        "day_encounters": [
+          {"species": "Starly", "level_range": [2, 4], "spawn_rate_percent": 50},
+          {"species": "Bidoof", "level_range": [2, 4], "spawn_rate_percent": 45},
+          {"species": "Kricketot", "level_range": [3, 4], "spawn_rate_percent": 5}
+        ],
+        "night_encounters": [
+          {"species": "Bidoof", "level_range": [2, 4], "spawn_rate_percent": 50},
+          {"species": "Starly", "level_range": [2, 4], "spawn_rate_percent": 30},
+          {"species": "Kricketot", "level_range": [3, 4], "spawn_rate_percent": 20}
+        ]
+      }
+    },
+    "mid_game_routes_and_caves": {
+      "rock_tunnel_and_mt_moon": {
+        "location_type": "Cave Floor & Rocks",
+        "encounters": [
+          {"species": "Zubat", "level_range": [8, 12], "spawn_rate_percent": 40},
+          {"species": "Geodude", "level_range": [7, 11], "spawn_rate_percent": 35},
+          {"species": "Paras", "level_range": [8, 10], "spawn_rate_percent": 15},
+          {"species": "Clefairy", "level_range": [10, 12], "spawn_rate_percent": 8},
+          {"species": "Onix", "level_range": [12, 14], "spawn_rate_percent": 2}
+        ]
+      },
+      "kalos_route_14_swamp": {
+        "location_type": "Murky Water & Tall Swamp Grass",
+        "encounters": [
+          {"species": "Goomy", "level_range": [30, 32], "spawn_rate_percent": 20},
+          {"species": "Quagsire", "level_range": [31, 33], "spawn_rate_percent": 30},
+          {"species": "Weepinbell", "level_range": [30, 32], "spawn_rate_percent": 25},
+          {"species": "Haunter", "level_range": [31, 33], "spawn_rate_percent": 15},
+          {"species": "Karrablast", "level_range": [30, 32], "spawn_rate_percent": 10}
+        ]
+      }
+    },
+    "high_level_zones": {
+      "cerulean_cave_depths": {
+        "location_type": "Deep Dark Cavern",
+        "encounters": [
+          {"species": "Ditto", "level_range": [55, 60], "spawn_rate_percent": 20},
+          {"species": "Machamp", "level_range": [56, 62], "spawn_rate_percent": 15},
+          {"species": "Rhydon", "level_range": [55, 60], "spawn_rate_percent": 25},
+          {"species": "Marowak", "level_range": [54, 58], "spawn_rate_percent": 20},
+          {"species": "Chansey", "level_range": [56, 60], "spawn_rate_percent": 15},
+          {"species": "Wobbuffet", "level_range": [55, 59], "spawn_rate_percent": 5}
+        ]
+      },
+      "galar_wild_area_lake_of_outrage": {
+        "location_type": "Dynamic Weather Overworld",
+        "encounters": [
+          {"species": "Drakloak", "level_range": [50, 52], "weather": "Overcast", "spawn_rate_percent": 25},
+          {"species": "Haxorus", "level_range": [55, 58], "weather": "Thunderstorm", "spawn_rate_percent": 20},
+          {"species": "Ditto", "level_range": [55, 58], "weather": "Normal", "spawn_rate_percent": 30},
+          {"species": "Tyranitar", "level_range": [58, 60], "weather": "Sandstorm", "spawn_rate_percent": 15},
+          {"species": "Lapras", "level_range": [55, 58], "weather": "Surfing Water", "spawn_rate_percent": 10}
+        ]
+      }
+    },
+    "hisui_distortion_zone_encounters": {
+      "crimson_mirelands_rift": {
+        "condition": "Active Space-Time Anomaly",
+        "encounters": [
+          {"species": "Hisuian Sliggoo", "level_range": [48, 54], "spawn_rate_percent": 30},
+          {"species": "Hisuian Growlithe", "level_range": [45, 50], "spawn_rate_percent": 25},
+          {"species": "Hisuian Voltorb", "level_range": [45, 49], "spawn_rate_percent": 20},
+          {"species": "Alpha Hisuian Zoroark", "level_range": [62, 65], "spawn_rate_percent": 15, "is_alpha": true},
+          {"species": "Alpha Hisuian Goodra", "level_range": [65, 68], "spawn_rate_percent": 10, "is_alpha": true}
+        ]
+      }
+    },
+    "paradox_temporal_rift_encounters": {
+      "area_zero_past_sector": {
+        "condition": "Prehistoric Field Hazard",
+        "encounters": [
+          {"species": "Brute Bonnet", "level_range": [58, 62], "spawn_rate_percent": 30},
+          {"species": "Scream Tail", "level_range": [59, 63], "spawn_rate_percent": 25},
+          {"species": "Flutter Mane", "level_range": [60, 64], "spawn_rate_percent": 20},
+          {"species": "Slither Wing", "level_range": [61, 65], "spawn_rate_percent": 15},
+          {"species": "Roaring Moon", "level_range": [65, 68], "spawn_rate_percent": 10}
+        ]
+      },
+      "area_zero_future_sector": {
+        "condition": "Electric Terrain Matrix",
+        "encounters": [
+          {"species": "Iron Treads", "level_range": [58, 62], "spawn_rate_percent": 30},
+          {"species": "Iron Jugulis", "level_range": [59, 63], "spawn_rate_percent": 25},
+          {"species": "Iron Bundle", "level_range": [60, 64], "spawn_rate_percent": 20},
+          {"species": "Iron Moth", "level_range": [61, 65], "spawn_rate_percent": 15},
+          {"species": "Iron Valiant", "level_range": [65, 68], "spawn_rate_percent": 10}
+        ]
+      }
+    }
+  }
+}
