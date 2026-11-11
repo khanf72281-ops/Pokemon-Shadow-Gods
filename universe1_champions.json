@@ -1,0 +1,130 @@
+{
+  "universe_1_regional_champions": {
+    "gen1_kanto": {
+      "champion_name": "Red",
+      "region": "Kanto",
+      "title": "Living Legend of Mt. Silver",
+      "ace": "Charizard",
+      "team": [
+        {"species": "Pikachu", "level": 88, "types": ["Electric"], "held_item": "Light Ball", "moves": ["Volt Tackle", "Iron Tail", "Thunderbolt", "Quick Attack"]},
+        {"species": "Lapras", "level": 85, "types": ["Water", "Ice"], "moves": ["Blizzard", "Hydro Pump", "Body Slam", "Psychic"]},
+        {"species": "Snorlax", "level": 85, "types": ["Normal"], "moves": ["Body Slam", "Rest", "Sleep Talk", "Crunch"]},
+        {"species": "Venusaur", "level": 86, "types": ["Grass", "Poison"], "moves": ["Frenzy Plant", "Sludge Bomb", "Giga Drain", "Sleep Powder"]},
+        {"species": "Blastoise", "level": 86, "types": ["Water"], "moves": ["Hydro Cannon", "Flash Cannon", "Ice Beam", "Aura Sphere"]},
+        {"species": "Charizard", "level": 88, "types": ["Fire", "Flying"], "moves": ["Blast Burn", "Dragon Claw", "Air Slash", "Flare Blitz"], "ace": true}
+      ]
+    },
+    "gen2_johto": {
+      "champion_name": "Lance",
+      "region": "Johto",
+      "title": "Dragon Master Champion",
+      "ace": "Kingdra",
+      "team": [
+        {"species": "Ampharos", "level": 72, "types": ["Electric"], "moves": ["Thunderbolt", "Dragon Pulse", "Power Gem", "Focus Blast"]},
+        {"species": "Heracross", "level": 73, "types": ["Bug", "Fighting"], "moves": ["Megahorn", "Close Combat", "Stone Edge", "Night Slash"]},
+        {"species": "Steelix", "level": 74, "types": ["Steel", "Ground"], "moves": ["Iron Tail", "Earthquake", "Crunch", "Stone Edge"]},
+        {"species": "Crobat", "level": 74, "types": ["Poison", "Flying"], "moves": ["Cross Poison", "Brave Bird", "Air Slash", "Roost"]},
+        {"species": "Tyranitar", "level": 75, "types": ["Rock", "Dark"], "moves": ["Stone Edge", "Crunch", "Earthquake", "Fire Fang"]},
+        {"species": "Kingdra", "level": 77, "types": ["Water", "Dragon"], "moves": ["Hydro Pump", "Dragon Pulse", "Ice Beam", "Dragon Dance"], "ace": true}
+      ]
+    },
+    "gen3_hoenn": {
+      "champion_name": "Steven Stone",
+      "region": "Hoenn",
+      "title": "Steel Sovereign of Hoenn",
+      "ace": "Metagross",
+      "team": [
+        {"species": "Skarmory", "level": 74, "types": ["Steel", "Flying"], "moves": ["Spikes", "Toxic", "Brave Bird", "Roost"]},
+        {"species": "Claydol", "level": 74, "types": ["Ground", "Psychic"], "moves": ["Earth Power", "Psychic", "Reflect", "Light Screen"]},
+        {"species": "Aggron", "level": 75, "types": ["Steel", "Rock"], "moves": ["Stone Edge", "Heavy Slam", "Earthquake", "Thunder Wave"]},
+        {"species": "Cradily", "level": 75, "types": ["Rock", "Grass"], "moves": ["Giga Drain", "Ancient Power", "Recover", "Stealth Rock"]},
+        {"species": "Armaldo", "level": 75, "types": ["Rock", "Bug"], "moves": ["X-Scissor", "Rock Slide", "Aqua Jet", "Swords Dance"]},
+        {"species": "Metagross", "level": 77, "types": ["Steel", "Psychic"], "moves": ["Meteor Mash", "Zen Headbutt", "Bullet Punch", "Earthquake"], "ace": true, "mega": true}
+      ]
+    },
+    "gen4_sinnoh": {
+      "champion_name": "Cynthia",
+      "region": "Sinnoh",
+      "title": "Undefeated Sinnoh Champion",
+      "ace": "Garchomp",
+      "team": [
+        {"species": "Spiritomb", "level": 76, "types": ["Ghost", "Dark"], "moves": ["Shadow Ball", "Dark Pulse", "Will-O-Wisp", "Sucker Punch"]},
+        {"species": "Roserade", "level": 76, "types": ["Grass", "Poison"], "moves": ["Energy Ball", "Sludge Bomb", "Dazzling Gleam", "Shadow Ball"]},
+        {"species": "Togekiss", "level": 77, "types": ["Fairy", "Flying"], "moves": ["Air Slash", "Dazzling Gleam", "Aura Sphere", "Roost"]},
+        {"species": "Lucario", "level": 77, "types": ["Fighting", "Steel"], "moves": ["Aura Sphere", "Flash Cannon", "Dragon Pulse", "Nasty Plot"]},
+        {"species": "Gastrodon", "level": 76, "types": ["Water", "Ground"], "moves": ["Scald", "Earth Power", "Recover", "Ice Beam"]},
+        {"species": "Garchomp", "level": 79, "types": ["Dragon", "Ground"], "moves": ["Dragon Claw", "Earthquake", "Poison Jab", "Swords Dance"], "ace": true, "mega": true}
+      ]
+    },
+    "gen5_unova": {
+      "champion_name": "Iris",
+      "region": "Unova",
+      "title": "Dragon Master Champion of Unova",
+      "ace": "Haxorus",
+      "team": [
+        {"species": "Hydreigon", "level": 77, "types": ["Dark", "Dragon"], "moves": ["Dragon Pulse", "Dark Pulse", "Flamethrower", "Surf"]},
+        {"species": "Druddigon", "level": 76, "types": ["Dragon"], "moves": ["Outrage", "Earthquake", "Fire Punch", "Sucker Punch"]},
+        {"species": "Archeops", "level": 76, "types": ["Rock", "Flying"], "moves": ["Acrobatics", "Stone Edge", "Dragon Claw", "U-turn"]},
+        {"species": "Aggron", "level": 76, "types": ["Steel", "Rock"], "moves": ["Autotomize", "Earthquake", "Stone Edge", "Iron Head"]},
+        {"species": "Lapras", "level": 76, "types": ["Water", "Ice"], "moves": ["Surf", "Ice Beam", "Thunderbolt", "Sing"]},
+        {"species": "Haxorus", "level": 79, "types": ["Dragon"], "moves": ["Outrage", "Earthquake", "X-Scissor", "Dragon Dance"], "ace": true}
+      ]
+    },
+    "gen6_kalos": {
+      "champion_name": "Diantha",
+      "region": "Kalos",
+      "title": "Grand Duchess of Kalos",
+      "ace": "Gardevoir",
+      "team": [
+        {"species": "Hawlucha", "level": 75, "types": ["Fighting", "Flying"], "moves": ["High Jump Kick", "Flying Press", "Poison Jab", "Swords Dance"]},
+        {"species": "Tyrantrum", "level": 75, "types": ["Rock", "Dragon"], "moves": ["Head Smash", "Dragon Claw", "Earthquake", "Crunch"]},
+        {"species": "Aurorus", "level": 75, "types": ["Rock", "Ice"], "moves": ["Blizzard", "Ancient Power", "Thunderbolt", "Reflect"]},
+        {"species": "Gourgeist", "level": 75, "types": ["Ghost", "Grass"], "moves": ["Phantom Force", "Seed Bomb", "Shadow Sneak", "Trick-or-Treat"]},
+        {"species": "Goodra", "level": 76, "types": ["Dragon"], "moves": ["Dragon Pulse", "Muddy Water", "Fire Blast", "Sludge Wave"]},
+        {"species": "Gardevoir", "level": 78, "types": ["Psychic", "Fairy"], "moves": ["Moonblast", "Psychic", "Shadow Ball", "Thunderbolt"], "ace": true, "mega": true}
+      ]
+    },
+    "gen7_alola": {
+      "champion_name": "Ash Ketchum",
+      "region": "Alola",
+      "title": "First Champion of Alola",
+      "ace": "Pikachu",
+      "team": [
+        {"species": "Rowlet", "level": 75, "types": ["Grass", "Flying"], "moves": ["Brave Bird", "Seed Bomb", "Razor Leaf", "Feather Dance"]},
+        {"species": "Lycanroc-Dusk", "level": 76, "types": ["Rock"], "moves": ["Accelerock", "Stone Edge", "Counter", "Bite"]},
+        {"species": "Incineroar", "level": 77, "types": ["Fire", "Dark"], "moves": ["Darkest Lariat", "Blast Burn", "Flamethrower", "Cross Chop"]},
+        {"species": "Melmetal", "level": 78, "types": ["Steel"], "moves": ["Double Iron Bash", "Flash Cannon", "Harden", "Thunderbolt"]},
+        {"species": "Naganadel", "level": 77, "types": ["Poison", "Dragon"], "moves": ["Dragon Pulse", "Sludge Bomb", "Thunderbolt", "X-Scissor"]},
+        {"species": "Pikachu", "level": 82, "types": ["Electric"], "held_item": "Pikashunium Z", "moves": ["10,000,000 Volt Thunderbolt", "Iron Tail", "Electroweb", "Quick Attack"], "ace": true}
+      ]
+    },
+    "gen8_galar": {
+      "champion_name": "Leon",
+      "region": "Galar",
+      "title": "The Undefeated Monarch",
+      "ace": "Charizard",
+      "team": [
+        {"species": "Aegislash", "level": 77, "types": ["Steel", "Ghost"], "moves": ["King's Shield", "Shadow Ball", "Flash Cannon", "Sacred Sword"]},
+        {"species": "Dragapult", "level": 78, "types": ["Dragon", "Ghost"], "moves": ["Dragon Darts", "Shadow Ball", "Flamethrower", "Thunderbolt"]},
+        {"species": "Haxorus", "level": 78, "types": ["Dragon"], "moves": ["Outrage", "Earthquake", "Iron Head", "Poison Jab"]},
+        {"species": "Rillaboom", "level": 77, "types": ["Grass"], "moves": ["Drum Beating", "High Horsepower", "Knock Off", "U-turn"]},
+        {"species": "Cinderace", "level": 77, "types": ["Fire"], "moves": ["Pyro Ball", "High Jump Kick", "Iron Head", "U-turn"]},
+        {"species": "Charizard", "level": 80, "types": ["Fire", "Flying"], "moves": ["Flamethrower", "Air Slash", "Solar Beam", "Ancient Power"], "ace": true, "gmax": true}
+      ]
+    },
+    "gen9_paldea": {
+      "champion_name": "Geeta",
+      "region": "Paldea",
+      "title": "Top Champion of the Paldea League",
+      "ace": "Glimmora",
+      "team": [
+        {"species": "Espathra", "level": 77, "types": ["Psychic"], "moves": ["Lumina Crash", "Dazzling Gleam", "Shadow Ball", "Quick Attack"]},
+        {"species": "Gogoat", "level": 76, "types": ["Grass"], "moves": ["Horn Leech", "Play Rough", "Bulk Up", "Brick Break"]},
+        {"species": "Veluza", "level": 76, "types": ["Water", "Psychic"], "moves": ["Aqua Cutter", "Psycho Cut", "Crunch", "Night Slash"]},
+        {"species": "Avalugg", "level": 76, "types": ["Ice"], "moves": ["Avalanche", "Body Press", "Earthquake", "Crunch"]},
+        {"species": "Kingambit", "level": 78, "types": ["Dark", "Steel"], "moves": ["Kowtow Cleave", "Iron Head", "Sucker Punch", "Zen Headbutt"]},
+        {"species": "Glimmora", "level": 80, "types": ["Rock", "Poison"], "moves": ["Mortal Spin", "Sludge Wave", "Power Gem", "Earth Power"], "ace": true, "tera_type": "Rock"}
+      ]
+    }
+  }
+}
