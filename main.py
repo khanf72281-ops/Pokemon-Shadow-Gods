@@ -85,3 +85,9 @@ elif cmd == "l":
         self.badges = loaded_data["badges"]
         self.starter = loaded_data["party"][0]
         print(f"Swagat hai wapas, {self.player_name}! Position: {self.player_pos}")
+import input_handler
+
+# लूप के अंदर:
+if not input_handler.handle_save_load(cmd, self, Pokemon):
+    # बाकी मूवमेंट और बैटल कमांड्स
+    pass
