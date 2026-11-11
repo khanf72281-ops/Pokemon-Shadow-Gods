@@ -1,0 +1,46 @@
+{
+  "elite_four_database": {
+    "gen1_kanto": [
+      {
+        "slot": 1,
+        "name": "Lorelei",
+        "type": "Ice",
+        "team": [
+          {"species": "Dewgong", "level": 54, "types": ["Water", "Ice"], "moves": ["Ice Beam", "Aurora Beam", "Rest", "Take Down"]},
+          {"species": "Cloyster", "level": 53, "types": ["Water", "Ice"], "moves": ["Spike Cannon", "Ice Beam", "Clamp", "Protect"]},
+          {"species": "Slowbro", "level": 54, "types": ["Water", "Psychic"], "moves": ["Surf", "Psychic", "Amnesia", "Water Pulse"]},
+          {"species": "Jynx", "level": 56, "types": ["Ice", "Psychic"], "moves": ["Lovely Kiss", "Ice Punch", "Psychic", "Thrash"]},
+          {"species": "Lapras", "level": 56, "types": ["Water", "Ice"], "moves": ["Hydro Pump", "Blizzard", "Body Slam", "Confuse Ray"], "ace": true}
+        ]
+      },
+      {
+        "slot": 2,
+        "name": "Bruno",
+        "type": "Fighting",
+        "team": [
+          {"species": "Onix", "level": 53, "types": ["Rock", "Ground"], "moves": ["Rock Tomb", "Slam", "Earthquake", "Roar"]},
+          {"species": "Hitmonchan", "level": 55, "types": ["Fighting"], "moves": ["Fire Punch", "Ice Punch", "Thunder Punch", "Mach Punch"]},
+          {"species": "Hitmonlee", "level": 55, "types": ["Fighting"], "moves": ["Mega Kick", "High Jump Kick", "Brick Break", "Foresight"]},
+          {"species": "Primeape", "level": 56, "types": ["Fighting"], "moves": ["Cross Chop", "Rage", "Seismic Toss", "Screech"]},
+          {"species": "Machamp", "level": 58, "types": ["Fighting"], "moves": ["Cross Chop", "Scary Face", "Rock Slide", "Submission"], "ace": true}
+        ]
+      },
+      {
+        "slot": 3,
+        "name": "Agatha",
+        "type": "Ghost / Poison",
+        "team": [
+          {"species": "Golbat", "level": 56, "types": ["Poison", "Flying"], "moves": ["Wing Attack", "Bite", "Confuse Ray", "Toxic"]},
+          {"species": "Haunter", "level": 55, "types": ["Ghost", "Poison"], "moves": ["Hypnosis", "Dream Eater", "Curse", "Night Shade"]},
+          {"species": "Arbok", "level": 58, "types": ["Poison"], "moves": ["Sludge Bomb", "Glare", "Bite", "Acid"]},
+          {"species": "Weezing", "level": 58, "types": ["Poison"], "moves": ["Sludge", "Smokescreen", "Explosion", "Toxic"]},
+          {"species": "Gengar", "level": 60, "types": ["Ghost", "Poison"], "moves": ["Shadow Ball", "Sludge Bomb", "Hypnosis", "Confuse Ray"], "ace": true}
+        ]
+      },
+      {
+        "slot": 4,
+        "name": "Lance",
+        "type": "Dragon / Flying",
+        "team": [
+          {"species": "Gyarados", "level": 58, "types": ["Water", "Flying"], "moves": ["Hydro Pump", "Dragon Rage", "Twister", "Hyper Beam"]},
+          {"species": "Dragonair", "level": 56, "types": ["Dragon"], "moves": ["Dragon Rage",
