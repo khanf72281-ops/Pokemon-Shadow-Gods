@@ -1,0 +1,58 @@
+{
+    "master_phenomena_system": {
+        "mechanics": {
+            "mega_evolution": {
+                "origin_gen": 6,
+                "activation": "Held Mega Stone + Mega Ring",
+                "effects": {
+                    "stat_boost": 100,
+                    "ability_change": true,
+                    "duration": "Entire Battle or until faint"
+                }
+            },
+            "z_moves": {
+                "origin_gen": 7,
+                "activation": "Held Z-Crystal + Z-Ring",
+                "effects": {
+                    "usage_limit": "Once per battle",
+                    "bypass_protect": true,
+                    "damage_reduction_through_protect": 0.25
+                }
+            },
+            "dynamax_gigantamax": {
+                "origin_gen": 8,
+                "activation": "Dynamax Band",
+                "effects": {
+                    "hp_multiplier": 1.5,
+                    "duration_turns": 3,
+                    "move_transformation": "Max Moves / G-Max Moves"
+                }
+            },
+            "terastallization": {
+                "origin_gen": 9,
+                "activation": "Tera Orb",
+                "effects": {
+                    "type_replacement": "Tera Type",
+                    "stab_boost": 2.0,
+                    "duration": "Until faint"
+                }
+            }
+        },
+        "multiverse_special_rules": {
+            "northern_league_rule": {
+                "name": "Triple Phenomena Protocol",
+                "allowed_per_match": 3,
+                "description": "Northern Championship matches allow trainers to trigger up to 3 different phenomena per full 6v6 match."
+            },
+            "dna_splice_fusion": {
+                "unlocked_by": "Prof. Oak & Mew Climax Battle",
+                "item": "DNA Splice Ring",
+                "effects": {
+                    "dual_abilities": true,
+                    "hybrid_signature_move": true,
+                    "move_slots_unlocked": 8
+                }
+            }
+        }
+    }
+}
