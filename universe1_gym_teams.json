@@ -1,0 +1,252 @@
+{
+    "universe_1_gym_teams": {
+        "kanto_gen1": {
+            "Brock": {
+                "gym": "Pewter City (Rock)",
+                "ace": "Onix",
+                "team": [
+                    {"species": "Geodude", "level": 12, "types": ["Rock", "Ground"], "moves": ["Tackle", "Defense Curl", "Rock Polish", "Rock Throw"]},
+                    {"species": "Onix", "level": 14, "types": ["Rock", "Ground"], "moves": ["Tackle", "Screech", "Bind", "Rock Tomb"]}
+                ]
+            },
+            "Misty": {
+                "gym": "Cerulean City (Water)",
+                "ace": "Starmie",
+                "team": [
+                    {"species": "Staryu", "level": 18, "types": ["Water"], "moves": ["Tackle", "Harden", "Water Pulse", "Recover"]},
+                    {"species": "Starmie", "level": 21, "types": ["Water", "Psychic"], "moves": ["Swift", "Water Pulse", "Rapid Spin", "Recover"]}
+                ]
+            },
+            "Lt_Surge": {
+                "gym": "Vermilion City (Electric)",
+                "ace": "Raichu",
+                "team": [
+                    {"species": "Voltorb", "level": 21, "types": ["Electric"], "moves": ["Screech", "Sonic Boom", "Spark", "Charge"]},
+                    {"species": "Pikachu", "level": 21, "types": ["Electric"], "moves": ["Quick Attack", "Thunder Wave", "Double Team", "Shock Wave"]},
+                    {"species": "Raichu", "level": 24, "types": ["Electric"], "moves": ["Quick Attack", "Thunderbolt", "Double Team", "Shock Wave"]}
+                ]
+            },
+            "Erika": {
+                "gym": "Celadon City (Grass)",
+                "ace": "Vileplume",
+                "team": [
+                    {"species": "Victreebel", "level": 29, "types": ["Grass", "Poison"], "moves": ["Poison Powder", "Sleep Powder", "Giga Drain", "Sweet Scent"]},
+                    {"species": "Tangela", "level": 24, "types": ["Grass"], "moves": ["Vine Whip", "Bind", "Mega Drain", "Ingrain"]},
+                    {"species": "Vileplume", "level": 29, "types": ["Grass", "Poison"], "moves": ["Mega Drain", "Sleep Powder", "Petal Dance", "Acid"]}
+                ]
+            },
+            "Koga": {
+                "gym": "Fuchsia City (Poison)",
+                "ace": "Venomoth",
+                "team": [
+                    {"species": "Koffing", "level": 37, "types": ["Poison"], "moves": ["Tackle", "Sludge", "Smokescreen", "Toxic"]},
+                    {"species": "Muk", "level": 39, "types": ["Poison"], "moves": ["Minimize", "Sludge", "Acid Armor", "Toxic"]},
+                    {"species": "Koffing", "level": 37, "types": ["Poison"], "moves": ["Tackle", "Sludge", "Self-Destruct", "Toxic"]},
+                    {"species": "Venomoth", "level": 43, "types": ["Bug", "Poison"], "moves": ["Supersonic", "Psychic", "Gust", "Toxic"]}
+                ]
+            },
+            "Sabrina": {
+                "gym": "Saffron City (Psychic)",
+                "ace": "Alakazam",
+                "team": [
+                    {"species": "Kadabra", "level": 38, "types": ["Psychic"], "moves": ["Psybeam", "Recover", "Reflect", "Calm Mind"]},
+                    {"species": "Mr. Mime", "level": 37, "types": ["Psychic", "Fairy"], "moves": ["Barrier", "Light Screen", "Psybeam", "Reflect"]},
+                    {"species": "Venomoth", "level": 38, "types": ["Bug", "Poison"], "moves": ["Supersonic", "Gust", "Psybeam", "Leech Life"]},
+                    {"species": "Alakazam", "level": 43, "types": ["Psychic"], "moves": ["Psychic", "Recover", "Calm Mind", "Reflect"]}
+                ]
+            },
+            "Blaine": {
+                "gym": "Cinnabar Island (Fire)",
+                "ace": "Magmar",
+                "team": [
+                    {"species": "Growlithe", "level": 42, "types": ["Fire"], "moves": ["Bite", "Roar", "Take Down", "Flamethrower"]},
+                    {"species": "Ponyta", "level": 40, "types": ["Fire"], "moves": ["Tail Whip", "Stomp", "Fire Spin", "Flame Wheel"]},
+                    {"species": "Rapidash", "level": 42, "types": ["Fire"], "moves": ["Stomp", "Fire Blast", "Fire Spin", "Agility"]},
+                    {"species": "Magmar", "level": 47, "types": ["Fire"], "moves": ["Fire Punch", "Fire Blast", "Smog", "Confuse Ray"]}
+                ]
+            },
+            "Giovanni": {
+                "gym": "Viridian City (Ground)",
+                "ace": "Rhydon",
+                "team": [
+                    {"species": "Rhyhorn", "level": 45, "types": ["Ground", "Rock"], "moves": ["Take Down", "Rock Blast", "Earthquake", "Scary Face"]},
+                    {"species": "Dugtrio", "level": 42, "types": ["Ground"], "moves": ["Slash", "Earthquake", "Sand Tomb", "Mud-Slap"]},
+                    {"species": "Nidoqueen", "level": 44, "types": ["Poison", "Ground"], "moves": ["Body Slam", "Earthquake", "Poison Sting", "Double Kick"]},
+                    {"species": "Nidoking", "level": 45, "types": ["Poison", "Ground"], "moves": ["Thrash", "Earthquake", "Poison Sting", "Megahorn"]},
+                    {"species": "Rhydon", "level": 50, "types": ["Ground", "Rock"], "moves": ["Earthquake", "Rock Blast", "Megahorn", "Take Down"]}
+                ]
+            }
+        },
+        "johto_gen2": {
+            "Falkner": {
+                "gym": "Violet City (Flying)",
+                "ace": "Pidgeotto",
+                "team": [
+                    {"species": "Pidgey", "level": 9, "types": ["Normal", "Flying"], "moves": ["Tackle", "Sand Attack"]},
+                    {"species": "Pidgeotto", "level": 13, "types": ["Normal", "Flying"], "moves": ["Tackle", "Sand Attack", "Gust", "Roost"]}
+                ]
+            },
+            "Bugsy": {
+                "gym": "Azalea Town (Bug)",
+                "ace": "Scyther",
+                "team": [
+                    {"species": "Metapod", "level": 15, "types": ["Bug"], "moves": ["Harden"]},
+                    {"species": "Kakuna", "level": 15, "types": ["Bug", "Poison"], "moves": ["Harden"]},
+                    {"species": "Scyther", "level": 17, "types": ["Bug", "Flying"], "moves": ["Fury Cutter", "Quick Attack", "Leer", "U-turn"]}
+                ]
+            },
+            "Whitney": {
+                "gym": "Goldenrod City (Normal)",
+                "ace": "Miltank",
+                "team": [
+                    {"species": "Clefairy", "level": 17, "types": ["Fairy"], "moves": ["Metronome", "Encore", "Mimic", "Double Slap"]},
+                    {"species": "Miltank", "level": 19, "types": ["Normal"], "moves": ["Rollout", "Attract", "Stomp", "Milk Drink"]}
+                ]
+            },
+            "Morty": {
+                "gym": "Ecruteak City (Ghost)",
+                "ace": "Gengar",
+                "team": [
+                    {"species": "Gastly", "level": 21, "types": ["Ghost", "Poison"], "moves": ["Lick", "Spite", "Mean Look", "Curse"]},
+                    {"species": "Haunter", "level": 21, "types": ["Ghost", "Poison"], "moves": ["Hypnosis", "Dream Eater", "Curse", "Night Shade"]},
+                    {"species": "Gengar", "level": 25, "types": ["Ghost", "Poison"], "moves": ["Shadow Ball", "Hypnosis", "Dream Eater", "Mean Look"]},
+                    {"species": "Haunter", "level": 23, "types": ["Ghost", "Poison"], "moves": ["Curse", "Night Shade", "Spite", "Sucker Punch"]}
+                ]
+            },
+            "Chuck": {
+                "gym": "Cianwood City (Fighting)",
+                "ace": "Poliwrath",
+                "team": [
+                    {"species": "Primeape", "level": 29, "types": ["Fighting"], "moves": ["Leer", "Focus Energy", "Double Team", "Rock Slide"]},
+                    {"species": "Poliwrath", "level": 31, "types": ["Water", "Fighting"], "moves": ["Hypnosis", "Dynamic Punch", "Focus Punch", "Surf"]}
+                ]
+            },
+            "Jasmine": {
+                "gym": "Olivine City (Steel)",
+                "ace": "Steelix",
+                "team": [
+                    {"species": "Magnemite", "level": 30, "types": ["Electric", "Steel"], "moves": ["Thunderbolt", "Sonic Boom", "Thunder Wave", "Supersonic"]},
+                    {"species": "Magnemite", "level": 30, "types": ["Electric", "Steel"], "moves": ["Thunderbolt", "Sonic Boom", "Thunder Wave", "Supersonic"]},
+                    {"species": "Steelix", "level": 35, "types": ["Steel", "Ground"], "moves": ["Iron Tail", "Rock Throw", "Sandstorm", "Screech"]}
+                ]
+            },
+            "Pryce": {
+                "gym": "Mahogany Town (Ice)",
+                "ace": "Piloswine",
+                "team": [
+                    {"species": "Seel", "level": 30, "types": ["Water"], "moves": ["Headbutt", "Icy Wind", "Aurora Beam", "Rest"]},
+                    {"species": "Dewgong", "level": 32, "types": ["Water", "Ice"], "moves": ["Aurora Beam", "Ice Shard", "Aqua Jet", "Rest"]},
+                    {"species": "Piloswine", "level": 34, "types": ["Ice", "Ground"], "moves": ["Blizzard", "Ice Fang", "Mud Bomb", "Hail"]}
+                ]
+            },
+            "Clair": {
+                "gym": "Blackthorn City (Dragon)",
+                "ace": "Kingdra",
+                "team": [
+                    {"species": "Gyarados", "level": 38, "types": ["Water", "Flying"], "moves": ["Dragon Pulse", "Twister", "Bite", "Dragon Rage"]},
+                    {"species": "Dragonair", "level": 38, "types": ["Dragon"], "moves": ["Thunder Wave", "Dragon Pulse", "Slam", "Aqua Tail"]},
+                    {"species": "Dragonair", "level": 38, "types": ["Dragon"], "moves": ["Fire Blast", "Dragon Pulse", "Slam", "Aqua Tail"]},
+                    {"species": "Kingdra", "level": 41, "types": ["Water", "Dragon"], "moves": ["Hydro Pump", "Dragon Pulse", "Smokescreen", "Hyper Beam"]}
+                ]
+            }
+        },
+        "sinnoh_gen4": {
+            "Roark": {
+                "gym": "Oreburgh City (Rock)",
+                "ace": "Cranidos",
+                "team": [
+                    {"species": "Geodude", "level": 12, "types": ["Rock", "Ground"], "moves": ["Rock Pebble", "Defense Curl"]},
+                    {"species": "Onix", "level": 12, "types": ["Rock", "Ground"], "moves": ["Rock Throw", "Screech", "Stealth Rock"]},
+                    {"species": "Cranidos", "level": 14, "types": ["Rock"], "moves": ["Headbutt", "Leer", "Pursuit"]}
+                ]
+            },
+            "Gardenia": {
+                "gym": "Eterna City (Grass)",
+                "ace": "Roserade",
+                "team": [
+                    {"species": "Cherubi", "level": 19, "types": ["Grass"], "moves": ["Grass Knot", "Growth", "Leech Seed"]},
+                    {"species": "Turtwig", "level": 19, "types": ["Grass"], "moves": ["Reflect", "Razor Leaf", "Withdraw"]},
+                    {"species": "Roserade", "level": 22, "types": ["Grass", "Poison"], "moves": ["Grass Knot", "Poison Sting", "Stun Spore", "Magical Leaf"]}
+                ]
+            },
+            "Maylene": {
+                "gym": "Veilstone City (Fighting)",
+                "ace": "Lucario",
+                "team": [
+                    {"species": "Meditite", "level": 28, "types": ["Fighting", "Psychic"], "moves": ["Drain Punch", "Confusion", "Rock Tomb"]},
+                    {"species": "Machoke", "level": 29, "types": ["Fighting"], "moves": ["Karate Chop", "Strength", "Foresight"]},
+                    {"species": "Lucario", "level": 32, "types": ["Fighting", "Steel"], "moves": ["Drain Punch", "Bone Rush", "Force Palm", "Metal Claw"]}
+                ]
+            },
+            "Crasher_Wake": {
+                "gym": "Pastoria City (Water)",
+                "ace": "Floatzel",
+                "team": [
+                    {"species": "Gyarados", "level": 33, "types": ["Water", "Flying"], "moves": ["Waterfall", "Twister", "Bite"]},
+                    {"species": "Quagsire", "level": 34, "types": ["Water", "Ground"], "moves": ["Mud Bomb", "Water Pulse", "Yawn"]},
+                    {"species": "Floatzel", "level": 37, "types": ["Water"], "moves": ["Aqua Jet", "Brine", "Ice Fang", "Crunch"]}
+                ]
+            },
+            "Fantina": {
+                "gym": "Hearthome City (Ghost)",
+                "ace": "Mismagius",
+                "team": [
+                    {"species": "Duskull", "level": 24, "types": ["Ghost"], "moves": ["Will-O-Wisp", "Shadow Sneak", "Future Sight"]},
+                    {"species": "Haunter", "level": 24, "types": ["Ghost", "Poison"], "moves": ["Shadow Claw", "Confuse Ray", "Hypnosis"]},
+                    {"species": "Mismagius", "level": 26, "types": ["Ghost"], "moves": ["Shadow Ball", "Psybeam", "Magical Leaf", "Confuse Ray"]}
+                ]
+            },
+            "Byron": {
+                "gym": "Canalave City (Steel)",
+                "ace": "Bastiodon",
+                "team": [
+                    {"species": "Magneton", "level": 37, "types": ["Electric", "Steel"], "moves": ["Flash Cannon", "Tri Attack", "Metal Sound"]},
+                    {"species": "Steelix", "level": 38, "types": ["Steel", "Ground"], "moves": ["Earthquake", "Iron Tail", "Ice Fang", "Sandstorm"]},
+                    {"species": "Bastiodon", "level": 41, "types": ["Rock", "Steel"], "moves": ["Iron Defense", "Ancient Power", "Flash Cannon", "Rest"]}
+                ]
+            },
+            "Candice": {
+                "gym": "Snowpoint City (Ice)",
+                "ace": "Froslass",
+                "team": [
+                    {"species": "Snover", "level": 38, "types": ["Grass", "Ice"], "moves": ["Avalanche", "Razor Leaf", "Water Pulse"]},
+                    {"species": "Sneasel", "level": 38, "types": ["Dark", "Ice"], "moves": ["Slash", "Ice Shard", "Feint Attack"]},
+                    {"species": "Medicham", "level": 40, "types": ["Fighting", "Psychic"], "moves": ["Ice Punch", "Fire Punch", "Thunder Punch"]},
+                    {"species": "Froslass", "level": 44, "types": ["Ice", "Ghost"], "moves": ["Blizzard", "Shadow Ball", "Confuse Ray", "Hail"]}
+                ]
+            },
+            "Volkner": {
+                "gym": "Sunyshore City (Electric)",
+                "ace": "Electivire",
+                "team": [
+                    {"species": "Jolteon", "level": 46, "types": ["Electric"], "moves": ["Thunderbolt", "Quick Attack", "Iron Tail"]},
+                    {"species": "Raichu", "level": 46, "types": ["Electric"], "moves": ["Charge Beam", "Focus Blast", "Signal Beam"]},
+                    {"species": "Luxray", "level": 48, "types": ["Electric"], "moves": ["Thunder Fang", "Crunch", "Fire Fang"]},
+                    {"species": "Electivire", "level": 50, "types": ["Electric"], "moves": ["Thunder Punch", "Fire Punch", "Quick Attack", "Giga Impact"]}
+                ]
+            }
+        },
+        "galar_and_paldea_highlights": {
+            "Raihan": {
+                "gym": "Hammerlocke (Dragon)",
+                "ace": "Duraludon (Gigantamax)",
+                "team": [
+                    {"species": "Flygon", "level": 47, "types": ["Ground", "Dragon"], "moves": ["Dragon Claw", "Earthquake", "Sandstorm"]},
+                    {"species": "Gigalith", "level": 46, "types": ["Rock"], "moves": ["Rock Slide", "Stealth Rock", "Body Press"]},
+                    {"species": "Sandaconda", "level": 46, "types": ["Ground"], "moves": ["Earth Power", "Glare", "Fire Fang"]},
+                    {"species": "Duraludon", "level": 48, "types": ["Steel", "Dragon"], "moves": ["Draco Meteor", "Flash Cannon", "Dark Pulse", "Thunderbolt"], "gmax": true}
+                ]
+            },
+            "Grusha": {
+                "gym": "Glaseado Gym (Ice)",
+                "ace": "Altaria (Tera Ice)",
+                "team": [
+                    {"species": "Frosmoth", "level": 47, "types": ["Ice", "Bug"], "moves": ["Blizzard", "Bug Buzz", "Tailwind"]},
+                    {"species": "Beartic", "level": 47, "types": ["Ice"], "moves": ["Aqua Jet", "Icicle Crash", "Earthquake"]},
+                    {"species": "Cetitan", "level": 47, "types": ["Ice"], "moves": ["Ice Spinner", "Liquidation", "Body Slam"]},
+                    {"species": "Altaria", "level": 48, "types": ["Dragon", "Flying"], "tera_type": "Ice", "moves": ["Ice Beam", "Dragon Pulse", "Moonblast", "Hurricane"]}
+                ]
+            }
+        }
+    }
+}
