@@ -1,0 +1,293 @@
+{
+  "wild_trainer_encounters": {
+    "standard_regional_trainers": {
+      "gen1_kanto": [
+        {
+          "trainer_class": "Youngster",
+          "name": "Joey",
+          "route": "Route 3",
+          "team": [
+            {"species": "Rattata", "level": 11, "moves": ["Tackle", "Quick Attack", "Bite"]},
+            {"species": "Spearow", "level": 12, "moves": ["Peck", "Leer", "Fury Attack"]}
+          ],
+          "reward_coins": 192,
+          "dialogue": "My Rattata is in the top percentage of all Rattata!"
+        },
+        {
+          "trainer_class": "Lass",
+          "name": "Janice",
+          "route": "Route 24 (Nugget Bridge)",
+          "team": [
+            {"species": "Pidgey", "level": 12, "moves": ["Gust", "Sand Attack"]},
+            {"species": "Oddish", "level": 14, "moves": ["Absorb", "Poison Powder"]}
+          ],
+          "reward_coins": 224,
+          "dialogue": "I saw you looking at me from across the bridge!"
+        },
+        {
+          "trainer_class": "Hiker",
+          "name": "Franklin",
+          "route": "Rock Tunnel",
+          "team": [
+            {"species": "Geodude", "level": 21, "moves": ["Rock Throw", "Defense Curl", "Magnitude"]},
+            {"species": "Machop", "level": 20, "moves": ["Low Kick", "Karate Chop", "Focus Energy"]}
+          ],
+          "reward_coins": 720,
+          "dialogue": "Watch your step in the dark! My rock types love this place!"
+        }
+      ],
+      "gen3_hoenn": [
+        {
+          "trainer_class": "Aroma Lady",
+          "name": "Rose",
+          "route": "Route 118",
+          "team": [
+            {"species": "Roselia", "level": 28, "moves": ["Mega Drain", "Toxic", "Leech Seed", "Sweet Scent"]}
+          ],
+          "reward_coins": 1120,
+          "dialogue": "The fragrance of nature gives my team strength!"
+        },
+        {
+          "trainer_class": "Ace Trainer",
+          "name": "Flint",
+          "route": "Route 119",
+          "team": [
+            {"species": "Manectric", "level": 31, "moves": ["Spark", "Bite", "Quick Attack", "Thunder Wave"]},
+            {"species": "Swellow", "level": 32, "moves": ["Wing Attack", "Quick Attack", "Double Team"]}
+          ],
+          "reward_coins": 1536,
+          "dialogue": "Only serious trainers make it past the tall grass here!"
+        }
+      ],
+      "gen4_sinnoh": [
+        {
+          "trainer_class": "Ruin Maniac",
+          "name": "Karl",
+          "route": "Route 214",
+          "team": [
+            {"species": "Bronzor", "level": 24, "moves": ["Confusion", "Hypnosis", "Iron Defense"]},
+            {"species": "Shieldon", "level": 26, "moves": ["Ancient Power", "Iron Defense", "Take Down"]}
+          ],
+          "reward_coins": 1248,
+          "dialogue": "Ruins, fossils, and ancient power! Let's excavate a win!"
+        },
+        {
+          "trainer_class": "Dragon Tamer",
+          "name": "Patrick",
+          "route": "Route 210 North",
+          "team": [
+            {"species": "Gible", "level": 33, "moves": ["Dragon Rage", "Sand Tomb", "Slash", "Take Down"]},
+            {"species": "Altaria", "level": 35, "moves": ["Dragon Breath", "Cotton Guard", "Pluck"]}
+          ],
+          "reward_coins": 1680,
+          "dialogue": "The fog can't hide the majesty of dragon Pokémon!"
+        }
+      ],
+      "gen8_galar": [
+        {
+          "trainer_class": "Worker",
+          "name": "Brant",
+          "route": "Galar Route 4",
+          "team": [
+            {"species": "Galarian Meowth", "level": 15, "moves": ["Scratch", "Pay Day", "Metal Claw"]},
+            {"species": "Timburr", "level": 16, "moves": ["Pound", "Low Kick", "Rock Throw"]}
+          ],
+          "reward_coins": 1280,
+          "dialogue": "Break time is over! Let's get right to work!"
+        },
+        {
+          "trainer_class": "Gym Challenger",
+          "name": "Camilla",
+          "route": "Route 6",
+          "team": [
+            {"species": "Corvisquire", "level": 30, "moves": ["Pluck", "Drill Peck", "Hone Claws"]},
+            {"species": "Dubwool", "level": 31, "moves": ["Headbutt", "Cotton Guard", "Double Kick"]}
+          ],
+          "reward_coins": 2480,
+          "dialogue": "I'm collecting gym badges just like you! Let's test our strength!"
+        }
+      ],
+      "gen9_paldea": [
+        {
+          "trainer_class": "Student",
+          "name": "Mateo",
+          "route": "South Province Area Three",
+          "team": [
+            {"species": "Smoliv", "level": 13, "moves": ["Tackle", "Sweet Scent", "Absorb"]},
+            {"species": "Nacli", "level": 14, "moves": ["Rock Throw", "Harden", "Smack Down"]}
+          ],
+          "reward_coins": 840,
+          "dialogue": "Academy homework can wait! A Pokémon battle comes first!"
+        },
+        {
+          "trainer_class": "Black Belt",
+          "name": "Daisuke",
+          "route": "North Province Area One",
+          "team": [
+            {"species": "Pawmot", "level": 52, "moves": ["Double Shock", "Close Combat", "Thunder Punch"]},
+            {"species": "Annihilape", "level": 54, "moves": ["Rage Fist", "Cross Chop", "Shadow Punch"]}
+          ],
+          "reward_coins": 3240,
+          "dialogue": "Our fists echo across the mountains! Feel the discipline!"
+        }
+      ]
+    },
+    "hisui_anomaly_trainers": [
+      {
+        "trainer_class": "Diamond Clan Warden",
+        "name": "Besh",
+        "zone": "Corrupted Crimson Mirelands Rift",
+        "mechanic_style": "Agile Style Master (+2 Priority shift, lower power)",
+        "team": [
+          {
+            "species": "Hisuian Lilligant",
+            "level": 60,
+            "style": "Agile",
+            "moves": ["Victory Dance", "Leaf Blade", "Close Combat", "Axel Spin"]
+          },
+          {
+            "species": "Hisuian Arcanine",
+            "level": 62,
+            "style": "Agile",
+            "moves": ["Raging Fury", "Rock Slide", "Extreme Speed", "Flare Blitz"]
+          }
+        ],
+        "reward_coins": 4500,
+        "special_drops": ["Grit Rock x3", "Ancient Heavy Ball x5", "Peculiar Berry x2"],
+        "dialogue": "Almighty Sinnoh flows through time! Can modern trainers withstand ancient speed?"
+      },
+      {
+        "trainer_class": "Pearl Clan Warden",
+        "name": "Kiran",
+        "zone": "Alabaster Icelands Distortion",
+        "mechanic_style": "Strong Style Master (+30% Move power, turn recovery delay)",
+        "team": [
+          {
+            "species": "Hisuian Avalugg",
+            "level": 62,
+            "style": "Strong",
+            "moves": ["Mountain Gale", "Earthquake", "Crunch", "Iron Defense"]
+          },
+          {
+            "species": "Hisuian Zoroark",
+            "level": 64,
+            "style": "Strong",
+            "moves": ["Bitter Malice", "Shadow Claw", "Hyper Voice", "Nasty Plot"]
+          }
+        ],
+        "reward_coins": 5200,
+        "special_drops": ["Origin Ore Fragment x1", "Grit Pebble x10", "Snow-Cold Herb x3"],
+        "dialogue": "The vast space carved by Almighty Sinnoh will freeze your hasty tactics!"
+      },
+      {
+        "trainer_class": "Galaxy Expedition Survey Scout",
+        "name": "Akari (Time Echo)",
+        "zone": "Hisui Ruined Temple Rift",
+        "mechanic_style": "Dual Style Shifter (Switches Agile & Strong depending on HP)",
+        "team": [
+          {
+            "species": "Hisuian Decidueye",
+            "level": 65,
+            "style": "Agile",
+            "moves": ["Triple Arrows", "Leaf Blade", "Brave Bird", "Spikes"]
+          },
+          {
+            "species": "Hisuian Goodra",
+            "level": 66,
+            "style": "Strong",
+            "moves": ["Shelter", "Dragon Pulse", "Flash Cannon", "Hydro Pump"]
+          }
+        ],
+        "reward_coins": 6000,
+        "special_drops": ["Ancient PokeBall Blueprint", "Hisui Incursion Core x1"],
+        "dialogue": "You... you also dropped out of the sky through the rift?!"
+      }
+    ],
+    "paradox_temporal_trainers": [
+      {
+        "trainer_class": "Ancient Rift Stalker",
+        "name": "Kaelen (Prehistoric Anomaly)",
+        "zone": "Great Crater Sector 01 (Past Rift)",
+        "mechanic_style": "Protosynthesis Overdrive (Stats boost 30% automatically without Sun)",
+        "team": [
+          {
+            "species": "Great Tusk",
+            "level": 66,
+            "ability": "Protosynthesis",
+            "moves": ["Headlong Rush", "Close Combat", "Earthquake", "Ice Spinner"]
+          },
+          {
+            "species": "Flutter Mane",
+            "level": 67,
+            "ability": "Protosynthesis",
+            "moves": ["Moonblast", "Shadow Ball", "Mystical Fire", "Dazzling Gleam"]
+          },
+          {
+            "species": "Roaring Moon",
+            "level": 68,
+            "ability": "Protosynthesis",
+            "moves": ["Dragon Dance", "Jaw Lock", "Dragon Claw", "Acrobatics"]
+          }
+        ],
+        "reward_coins": 7500,
+        "special_drops": ["Booster Energy x1", "Ancient Fossilised Scale x2", "Past Tera Shard x10"],
+        "dialogue": "Raw primal instincts rule here. Civilization cannot save your Pokémon!"
+      },
+      {
+        "trainer_class": "Future Singularity Unit",
+        "name": "Unit-09 Delta (AI Automaton)",
+        "zone": "Zero Lab Singularity Vault (Future Rift)",
+        "mechanic_style": "Quark Drive Matrix (Speed & Sp.Atk boost automatically without Terrain)",
+        "team": [
+          {
+            "species": "Iron Hands",
+            "level": 66,
+            "ability": "Quark Drive",
+            "moves": ["Drain Punch", "Wild Charge", "Fake Out", "Heavy Slam"]
+          },
+          {
+            "species": "Iron Bundle",
+            "level": 67,
+            "ability": "Quark Drive",
+            "moves": ["Freeze-Dry", "Hydro Pump", "Ice Beam", "Flip Turn"]
+          },
+          {
+            "species": "Iron Valiant",
+            "level": 68,
+            "ability": "Quark Drive",
+            "moves": ["Spirit Break", "Close Combat", "Moonblast", "Knock Off"]
+          }
+        ],
+        "reward_coins": 8200,
+        "special_drops": ["Quantum Quark Capacitor x1", "Cyber Circuit x3", "Future Tera Shard x10"],
+        "dialogue": "Threat detected: Anomaly Farhan. Engaging protocol: Multiverse Elimination."
+      },
+      {
+        "trainer_class": "Paradox Temporal Warden",
+        "name": "Chronos Glitch",
+        "zone": "Singularity Threshold (Between Universe 1 & 2)",
+        "mechanic_style": "Paradox Synthesis (Brings both Past & Future paradox mons simultaneously)",
+        "team": [
+          {
+            "species": "Scream Tail",
+            "level": 70,
+            "moves": ["Draining Kiss", "Play Rough", "Boomburst", "Wish"]
+          },
+          {
+            "species": "Iron Thorns",
+            "level": 70,
+            "moves": ["Stone Edge", "Wild Charge", "Earthquake", "Dragon Dance"]
+          },
+          {
+            "species": "Koraidon",
+            "level": 72,
+            "moves": ["Collision Course", "Flare Blitz", "Dragon Claw", "Bulk Up"]
+          }
+        ],
+        "reward_coins": 10000,
+        "special_drops": ["Multiverse Chrono-Key Fragment", "Space-Time Stabilizer x1"],
+        "dialogue": "Past and Future are colliding into zero. You cannot cross into Universe 2!"
+      }
+    ]
+  }
+}
