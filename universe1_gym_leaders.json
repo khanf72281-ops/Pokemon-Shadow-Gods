@@ -1,0 +1,94 @@
+{
+  "universe_1_gym_leaders": {
+    "kanto_gen1": [
+      {"gym_num": 1, "city": "Pewter City", "leader": "Brock", "type": "Rock", "badge": "Boulder Badge", "ace": "Onix"},
+      {"gym_num": 2, "city": "Cerulean City", "leader": "Misty", "type": "Water", "badge": "Cascade Badge", "ace": "Starmie"},
+      {"gym_num": 3, "city": "Vermilion City", "leader": "Lt. Surge", "type": "Electric", "badge": "Thunder Badge", "ace": "Raichu"},
+      {"gym_num": 4, "city": "Celadon City", "leader": "Erika", "type": "Grass", "badge": "Rainbow Badge", "ace": "Vileplume"},
+      {"gym_num": 5, "city": "Fuchsia City", "leader": "Koga / Janine", "type": "Poison", "badge": "Soul Badge", "ace": "Venomoth"},
+      {"gym_num": 6, "city": "Saffron City", "leader": "Sabrina", "type": "Psychic", "badge": "Marsh Badge", "ace": "Alakazam"},
+      {"gym_num": 7, "city": "Cinnabar Island", "leader": "Blaine", "type": "Fire", "badge": "Volcano Badge", "ace": "Magmar"},
+      {"gym_num": 8, "city": "Viridian City", "leader": "Giovanni / Blue", "type": "Ground / Mixed", "badge": "Earth Badge", "ace": "Rhydon / Pidgeot"}
+    ],
+    "johto_gen2": [
+      {"gym_num": 1, "city": "Violet City", "leader": "Falkner", "type": "Flying", "badge": "Zephyr Badge", "ace": "Pidgeotto"},
+      {"gym_num": 2, "city": "Azalea Town", "leader": "Bugsy", "type": "Bug", "badge": "Hive Badge", "ace": "Scyther"},
+      {"gym_num": 3, "city": "Goldenrod City", "leader": "Whitney", "type": "Normal", "badge": "Plain Badge", "ace": "Miltank"},
+      {"gym_num": 4, "city": "Ecruteak City", "leader": "Morty", "type": "Ghost", "badge": "Fog Badge", "ace": "Gengar"},
+      {"gym_num": 5, "city": "Cianwood City", "leader": "Chuck", "type": "Fighting", "badge": "Storm Badge", "ace": "Poliwrath"},
+      {"gym_num": 6, "city": "Olivine City", "leader": "Jasmine", "type": "Steel", "badge": "Mineral Badge", "ace": "Steelix"},
+      {"gym_num": 7, "city": "Mahogany Town", "leader": "Pryce", "type": "Ice", "badge": "Glacier Badge", "ace": "Piloswine"},
+      {"gym_num": 8, "city": "Blackthorn City", "leader": "Clair", "type": "Dragon", "badge": "Rising Badge", "ace": "Kingdra"}
+    ],
+    "hoenn_gen3": [
+      {"gym_num": 1, "city": "Rustboro City", "leader": "Roxanne", "type": "Rock", "badge": "Stone Badge", "ace": "Nosepass"},
+      {"gym_num": 2, "city": "Dewford Town", "leader": "Brawly", "type": "Fighting", "badge": "Knuckle Badge", "ace": "Makuhita"},
+      {"gym_num": 3, "city": "Mauville City", "leader": "Wattson", "type": "Electric", "badge": "Dynamo Badge", "ace": "Manectric"},
+      {"gym_num": 4, "city": "Lavaridge Town", "leader": "Flannery", "type": "Fire", "badge": "Heat Badge", "ace": "Torkoal"},
+      {"gym_num": 5, "city": "Petalburg City", "leader": "Norman", "type": "Normal", "badge": "Balance Badge", "ace": "Slaking"},
+      {"gym_num": 6, "city": "Fortree City", "leader": "Winona", "type": "Flying", "badge": "Feather Badge", "ace": "Altaria"},
+      {"gym_num": 7, "city": "Mossdeep City", "leader": "Tate & Liza", "type": "Psychic", "badge": "Mind Badge", "ace": "Lunatone & Solrock"},
+      {"gym_num": 8, "city": "Sootopolis City", "leader": "Wallace / Juan", "type": "Water", "badge": "Rain Badge", "ace": "Milotic / Kingdra"}
+    ],
+    "sinnoh_gen4": [
+      {"gym_num": 1, "city": "Oreburgh City", "leader": "Roark", "type": "Rock", "badge": "Coal Badge", "ace": "Cranidos"},
+      {"gym_num": 2, "city": "Eterna City", "leader": "Gardenia", "type": "Grass", "badge": "Forest Badge", "ace": "Roserade"},
+      {"gym_num": 3, "city": "Veilstone City", "leader": "Maylene", "type": "Fighting", "badge": "Cobble Badge", "ace": "Lucario"},
+      {"gym_num": 4, "city": "Pastoria City", "leader": "Crasher Wake", "type": "Water", "badge": "Fen Badge", "ace": "Floatzel"},
+      {"gym_num": 5, "city": "Hearthome City", "leader": "Fantina", "type": "Ghost", "badge": "Relic Badge", "ace": "Mismagius"},
+      {"gym_num": 6, "city": "Canalave City", "leader": "Byron", "type": "Steel", "badge": "Mine Badge", "ace": "Bastiodon"},
+      {"gym_num": 7, "city": "Snowpoint City", "leader": "Candice", "type": "Ice", "badge": "Icicle Badge", "ace": "Froslass"},
+      {"gym_num": 8, "city": "Sunyshore City", "leader": "Volkner", "type": "Electric", "badge": "Beacon Badge", "ace": "Electivire"}
+    ],
+    "unova_gen5": [
+      {"gym_num": 1, "city": "Striaton City / Aspertia City", "leader": "Cilan/Chili/Cress / Cheren", "type": "Elemental / Normal", "badge": "Trio / Basic Badge", "ace": "Simis / Stoutland"},
+      {"gym_num": 2, "city": "Nacrene City / Virbank City", "leader": "Lenora / Roxie", "type": "Normal / Poison", "badge": "Basic / Toxic Badge", "ace": "Watchog / Scolipede"},
+      {"gym_num": 3, "city": "Castelia City", "leader": "Burgh", "type": "Bug", "badge": "Insect Badge", "ace": "Leavanny"},
+      {"gym_num": 4, "city": "Nimbasa City", "leader": "Elesa", "type": "Electric", "badge": "Bolt Badge", "ace": "Zebstrika"},
+      {"gym_num": 5, "city": "Driftveil City", "leader": "Clay", "type": "Ground", "badge": "Quake Badge", "ace": "Excadrill"},
+      {"gym_num": 6, "city": "Mistralton City", "leader": "Skyla", "type": "Flying", "badge": "Jet Badge", "ace": "Swanna"},
+      {"gym_num": 7, "city": "Icirrus City", "leader": "Brycen", "type": "Ice", "badge": "Freeze Badge", "ace": "Beartic"},
+      {"gym_num": 8, "city": "Opelucid City / Humilau City", "leader": "Drayden/Iris / Marlon", "type": "Dragon / Water", "badge": "Legend / Wave Badge", "ace": "Haxorus / Jellicent"}
+    ],
+    "kalos_gen6": [
+      {"gym_num": 1, "city": "Santalune City", "leader": "Viola", "type": "Bug", "badge": "Bug Badge", "ace": "Vivillon"},
+      {"gym_num": 2, "city": "Cyllage City", "leader": "Grant", "type": "Rock", "badge": "Cliff Badge", "ace": "Tyrunt"},
+      {"gym_num": 3, "city": "Shalour City", "leader": "Korrina", "type": "Fighting", "badge": "Rumble Badge", "ace": "Mega Lucario"},
+      {"gym_num": 4, "city": "Coumarine City", "leader": "Ramos", "type": "Grass", "badge": "Plant Badge", "ace": "Gogoat"},
+      {"gym_num": 5, "city": "Lumiose City", "leader": "Clemont", "type": "Electric", "badge": "Voltage Badge", "ace": "Heliolisk"},
+      {"gym_num": 6, "city": "Laverre City", "leader": "Valerie", "type": "Fairy", "badge": "Fairy Badge", "ace": "Sylveon"},
+      {"gym_num": 7, "city": "Anistar City", "leader": "Olympia", "type": "Psychic", "badge": "Psychic Badge", "ace": "Meowstic"},
+      {"gym_num": 8, "city": "Snowbelle City", "leader": "Wulfric", "type": "Ice", "badge": "Iceberg Badge", "ace": "Avalugg"}
+    ],
+    "alola_gen7": [
+      {"trial_num": 1, "island": "Melemele Island", "captain_kahuna": "Ilima / Hala", "type": "Normal / Fighting", "stamp": "Melemele Stamp", "totem_ace": "Totem Gumshoos / Crabrawler"},
+      {"trial_num": 2, "island": "Akala Island (Brooklet Hill)", "captain_kahuna": "Lana", "type": "Water", "stamp": "Water Z-Crystal", "totem_ace": "Totem Araquanid"},
+      {"trial_num": 3, "island": "Akala Island (Wela Volcano)", "captain_kahuna": "Kiawe", "type": "Fire", "stamp": "Fire Z-Crystal", "totem_ace": "Totem Salazzle"},
+      {"trial_num": 4, "island": "Akala Island (Lush Jungle)", "captain_kahuna": "Mallow / Olivia", "type": "Grass / Rock", "stamp": "Akala Stamp", "totem_ace": "Totem Lurantis / Lycanroc"},
+      {"trial_num": 5, "island": "Ula'ula Island (Hokulani)", "captain_kahuna": "Sophocles", "type": "Electric", "stamp": "Electric Z-Crystal", "totem_ace": "Totem Vikavolt"},
+      {"trial_num": 6, "island": "Ula'ula Island (Thrifty Megamart)", "captain_kahuna": "Acerola", "type": "Ghost", "stamp": "Ghost Z-Crystal", "totem_ace": "Totem Mimikyu"},
+      {"trial_num": 7, "island": "Ula'ula Island (Grand Trial)", "captain_kahuna": "Nanu", "type": "Dark", "stamp": "Ula'ula Stamp", "totem_ace": "Alolan Persian"},
+      {"trial_num": 8, "island": "Poni Island (Vast Poni Canyon)", "captain_kahuna": "Hapu", "type": "Ground", "stamp": "Poni Stamp", "totem_ace": "Mudsdale"}
+    ],
+    "galar_gen8": [
+      {"gym_num": 1, "city": "Turffield", "leader": "Milo", "type": "Grass", "badge": "Grass Badge", "ace": "Eldegoss (Dynamax)"},
+      {"gym_num": 2, "city": "Hulbury", "leader": "Nessa", "type": "Water", "badge": "Water Badge", "ace": "Drednaw (Gigantamax)"},
+      {"gym_num": 3, "city": "Motostoke", "leader": "Kabu", "type": "Fire", "badge": "Fire Badge", "ace": "Centiskorch (Gigantamax)"},
+      {"gym_num": 4, "city": "Stow-on-Side", "leader": "Bea / Allister", "type": "Fighting / Ghost", "badge": "Fighting / Ghost Badge", "ace": "Machamp / Gengar (Gigantamax)"},
+      {"gym_num": 5, "city": "Ballonlea", "leader": "Opal", "type": "Fairy", "badge": "Fairy Badge", "ace": "Alcremie (Gigantamax)"},
+      {"gym_num": 6, "city": "Circhester", "leader": "Gordie / Melony", "type": "Rock / Ice", "badge": "Rock / Ice Badge", "ace": "Coalossal / Lapras (Gigantamax)"},
+      {"gym_num": 7, "city": "Spikemuth", "leader": "Piers", "type": "Dark", "badge": "Dark Badge", "ace": "Obstagoon"},
+      {"gym_num": 8, "city": "Hammerlocke", "leader": "Raihan", "type": "Dragon", "badge": "Dragon Badge", "ace": "Duraludon (Gigantamax)"}
+    ],
+    "paldea_gen9": [
+      {"gym_num": 1, "city": "Cortondo", "leader": "Katy", "type": "Bug", "badge": "Bug Badge", "ace": "Teddiursa (Tera Bug)"},
+      {"gym_num": 2, "city": "Artazon", "leader": "Brassius", "type": "Grass", "badge": "Grass Badge", "ace": "Sudowoodo (Tera Grass)"},
+      {"gym_num": 3, "city": "Levincia", "leader": "Iono", "type": "Electric", "badge": "Electric Badge", "ace": "Mismagius (Tera Electric)"},
+      {"gym_num": 4, "city": "Cascarrafa", "leader": "Kofu", "type": "Water", "badge": "Water Badge", "ace": "Crabominable (Tera Water)"},
+      {"gym_num": 5, "city": "Medali", "leader": "Larry", "type": "Normal", "badge": "Normal Badge", "ace": "Staraptor (Tera Normal)"},
+      {"gym_num": 6, "city": "Montenevera", "leader": "Ryme", "type": "Ghost", "badge": "Ghost Badge", "ace": "Toxtricity (Tera Ghost)"},
+      {"gym_num": 7, "city": "Alfornada", "leader": "Tulip", "type": "Psychic", "badge": "Psychic Badge", "ace": "Florges (Tera Psychic)"},
+      {"gym_num": 8, "city": "Glaseado", "leader": "Grusha", "type": "Ice", "badge": "Ice Badge", "ace": "Altaria (Tera Ice)"}
+    ]
+  }
+}
