@@ -1,0 +1,105 @@
+{
+  "shiny_endgame_manifestation": {
+    "event_title": "Cosmic Resonance: Alternate Prismatic Incursions",
+    "story_trigger": {
+      "requirement": "Defeat Reigning Pokemon Master & Activate Universe 2 Portal Sequence",
+      "dialogue_oak": "Farhan, dekho! Portal khulne ki wajah se jo cosmic radiation nikli hai, usne un sabhi ancient spots ko overload kar diya hai jahan tumne pehle Legendaries aur Ultra Beasts pakde the. Unke alternate prismatic roop (Shiny Forms) wahan dobara manifest ho rahe hain! Universe 2 me kadam rakhne se pehle, yeh tumhara aakhri mauka hai unki poori taqat ko capture karne ka!",
+      "tracker_item": "Aether Resonance Tracker",
+      "tracker_description": "Detects high-frequency cosmic radiation emitting from manifested prismatic entities."
+    },
+    "mechanics": {
+      "shiny_guaranteed": true,
+      "encounter_condition": "Player must have captured or defeated the original form in Universe 1",
+      "level_scaling": "Level 85 - 100",
+      "cosmic_buff": {
+        "stat_multiplier": 1.25,
+        "status_immunity": "Immune to turn 1 instant disable effects",
+        "special_aura": "Prismatic Radiance (+20% power to native STAB moves)"
+      }
+    },
+    "manifested_targets": [
+      {
+        "category": "Gen 1-9 Mythicals & Special Shrines",
+        "entities": [
+          {
+            "species": "Mew",
+            "location": "Pallet Town Secret Underground Chamber",
+            "shiny_type": "Celestial Blue",
+            "encounter_level": 90,
+            "special_move": "Genesis Supernova",
+            "prerequisite": "True Master Badge"
+          },
+          {
+            "species": "Celebi",
+            "location": "Ilex Forest Ancient Overgrown Shrine",
+            "shiny_type": "Timeless Pink",
+            "encounter_level": 88,
+            "special_move": "Time Warp Heal",
+            "prerequisite": "Temporal Anchor Item"
+          },
+          {
+            "species": "Deoxys",
+            "location": "Birth Island - Triangle Apex Fracture",
+            "shiny_type": "Meteorite Gold",
+            "encounter_level": 92,
+            "special_move": "Cosmic Ray Blast",
+            "prerequisite": "Aurora Ticket Resonance"
+          },
+          {
+            "species": "Arceus",
+            "location": "Hall of Origin - Crystal Stairway",
+            "shiny_type": "Divine Gold Aura",
+            "encounter_level": 100,
+            "special_move": "Judgement of the Void",
+            "prerequisite": "Azure Flute Harmonic Calibration"
+          }
+        ]
+      },
+      {
+        "category": "Ultra Beast Cosmic Overload Rifts",
+        "entities": [
+          {
+            "species": "Nihilego",
+            "code_name": "UB-01 Symbiont",
+            "location": "Wela Volcano Peak - Prismatic Crevice",
+            "shiny_type": "Gold Crown Amber",
+            "encounter_level": 88,
+            "boosted_aura": "Neurotoxic Surge"
+          },
+          {
+            "species": "Buzzwole",
+            "code_name": "UB-02 Absorption",
+            "location": "Melemele Meadow - Blood Sun Fracture",
+            "shiny_type": "Fluorescent Emerald & Crimson",
+            "encounter_level": 88,
+            "boosted_aura": "Hypertrophy Titan"
+          },
+          {
+            "species": "Kartana",
+            "code_name": "UB-04 Blade",
+            "location": "Malie Garden - Paper Cut Rift",
+            "shiny_type": "Dark Obsidian Edge",
+            "encounter_level": 90,
+            "boosted_aura": "Absolute Slicer"
+          },
+          {
+            "species": "Guzzlord",
+            "code_name": "UB-05 Glutton",
+            "location": "Resolution Cave - Nether Gate",
+            "shiny_type": "Abyssal White & Orange Maw",
+            "encounter_level": 95,
+            "boosted_aura": "Event Horizon Drain"
+          },
+          {
+            "species": "Poipole / Naganadel",
+            "code_name": "UB Stinger",
+            "location": "Sky Temple Spatial Rupture",
+            "shiny_type": "Black & Crimson Venom Hornet",
+            "encounter_level": 92,
+            "boosted_aura": "Stinger Overdrive"
+          }
+        ]
+      }
+    ]
+  }
+}
