@@ -1,0 +1,102 @@
+{
+  "universe_1_legendary_locations": {
+    "kanto_gen1": [
+      {"name": "Articuno", "location": "Seafoam Islands (B4F Deep Cavern)", "level": 50},
+      {"name": "Zapdos", "location": "Kanto Power Plant (Generator Room)", "level": 50},
+      {"name": "Moltres", "location": "Mt. Silver Peak / Victory Road", "level": 50},
+      {"name": "Mewtwo", "location": "Cerulean Cave (Deepest Chamber)", "level": 70},
+      {"name": "Mew", "location": "Pallet Town Secret Lab (Prof. Oak Climax Battle)", "level": 80}
+    ],
+    "johto_gen2": [
+      {"name": "Raikou", "location": "Johto Roaming Routes (Trigger: Burned Tower)", "level": 40},
+      {"name": "Entei", "location": "Johto Roaming Routes (Trigger: Burned Tower)", "level": 40},
+      {"name": "Suicune", "location": "Bell Tower / Cape Brink Route 25", "level": 40},
+      {"name": "Lugia", "location": "Whirl Islands (Deep Sea Waterfall)", "level": 70},
+      {"name": "Ho-Oh", "location": "Tin Tower (Bell Tower Summit)", "level": 70},
+      {"name": "Celebi", "location": "Ilex Forest Shrine (GS Ball Event)", "level": 50}
+    ],
+    "hoenn_gen3": [
+      {"name": "Regirock", "location": "Desert Ruins (Route 111 Braille Chamber)", "level": 40},
+      {"name": "Regice", "location": "Island Cave (Route 105)", "level": 40},
+      {"name": "Registeel", "location": "Ancient Tomb (Route 120)", "level": 40},
+      {"name": "Latias", "location": "Southern Island / Roaming Hoenn", "level": 50},
+      {"name": "Latios", "location": "Southern Island / Roaming Hoenn", "level": 50},
+      {"name": "Kyogre", "location": "Cave of Origin (Marine Cave Depth)", "level": 70},
+      {"name": "Groudon", "location": "Cave of Origin (Terra Cave Depth)", "level": 70},
+      {"name": "Rayquaza", "location": "Sky Pillar Peak (Top Floor)", "level": 70},
+      {"name": "Jirachi", "location": "Mossdeep White Rock (Wish Core)", "level": 50},
+      {"name": "Deoxys", "location": "Birth Island (Triangle Pillar Puzzle)", "level": 80}
+    ],
+    "sinnoh_gen4": [
+      {"name": "Uxie", "location": "Lake Acuity Cavern", "level": 50},
+      {"name": "Mesprit", "location": "Lake Verity Cavern (Roaming Sinnoh)", "level": 50},
+      {"name": "Azelf", "location": "Lake Valor Cavern", "level": 50},
+      {"name": "Dialga", "location": "Spear Pillar (Temporal Rift Peak)", "level": 70},
+      {"name": "Palkia", "location": "Spear Pillar (Spatial Rift Peak)", "level": 70},
+      {"name": "Heatran", "location": "Stark Mountain (Magma Core)", "level": 70},
+      {"name": "Regigigas", "location": "Snowpoint Temple (Lowest Level)", "level": 70},
+      {"name": "Giratina", "location": "Turnback Cave / Distortion World", "level": 75},
+      {"name": "Cresselia", "location": "Fullmoon Island (Roaming Sinnoh)", "level": 50},
+      {"name": "Darkrai", "location": "Newmoon Island", "level": 50},
+      {"name": "Shaymin", "location": "Flower Paradise (Seabreak Path)", "level": 30},
+      {"name": "Arceus", "location": "Hall of Origin (Azure Flute Steps)", "level": 80}
+    ],
+    "unova_gen5": [
+      {"name": "Cobalion", "location": "Guidance Chamber (Mistralton Cave)", "level": 45},
+      {"name": "Terrakion", "location": "Trial Chamber (Victory Road)", "level": 45},
+      {"name": "Virizion", "location": "Rumination Field (Pinwheel Forest)", "level": 45},
+      {"name": "Tornadus", "location": "Route 7 Roaming Storm", "level": 50},
+      {"name": "Thundurus", "location": "Route 7 Roaming Thunder", "level": 50},
+      {"name": "Reshiram", "location": "N's Castle / Dragonspiral Tower Summit", "level": 70},
+      {"name": "Zekrom", "location": "N's Castle / Dragonspiral Tower Summit", "level": 70},
+      {"name": "Landorus", "location": "Abundant Shrine", "level": 70},
+      {"name": "Kyurem", "location": "Giant Chasm (Crater Forest Deep Cave)", "level": 75},
+      {"name": "Keldeo", "location": "Pledge Grove", "level": 50},
+      {"name": "Meloetta", "location": "Castelia City (Cafe Sonata)", "level": 50},
+      {"name": "Genesect", "location": "P2 Laboratory", "level": 50}
+    ],
+    "kalos_gen6": [
+      {"name": "Xerneas", "location": "Team Flare Secret HQ (Tree of Life)", "level": 70},
+      {"name": "Yveltal", "location": "Team Flare Secret HQ (Cocoon of Destruction)", "level": 70},
+      {"name": "Zygarde", "location": "Terminus Cave (Deepest Chamber)", "level": 70},
+      {"name": "Diancie", "location": "Reflection Cave Hidden Shrine", "level": 50},
+      {"name": "Hoopa", "location": "Parfum Palace Vault", "level": 50},
+      {"name": "Volcanion", "location": "Kalos Power Plant (Locked Sector)", "level": 70}
+    ],
+    "alola_gen7": [
+      {"name": "Tapu Koko", "location": "Ruins of Conflict (Melemele Island)", "level": 60},
+      {"name": "Tapu Lele", "location": "Ruins of Life (Akala Island)", "level": 60},
+      {"name": "Tapu Bulu", "location": "Ruins of Abundance (Ula'ula Island)", "level": 60},
+      {"name": "Tapu Fini", "location": "Ruins of Hope (Poni Island)", "level": 60},
+      {"name": "Cosmog / Cosmoem", "location": "Lake of the Sunne / Lake of the Moone", "level": 5},
+      {"name": "Solgaleo", "location": "Altar of the Sunne (Ultra Wormhole Summit)", "level": 70},
+      {"name": "Lunala", "location": "Altar of the Moone (Ultra Wormhole Summit)", "level": 70},
+      {"name": "Necrozma", "location": "Mount Lanakila / Megalo Tower", "level": 75},
+      {"name": "Magearna", "location": "Hau'oli City Antique Shop", "level": 50},
+      {"name": "Marshadow", "location": "Mount Hokulani Shadow Observatory", "level": 50},
+      {"name": "Zeraora", "location": "Wela Volcano Park Core", "level": 50}
+    ],
+    "galar_gen8": [
+      {"name": "Zacian", "location": "Slumbering Weald (Energy Plant Tower)", "level": 70},
+      {"name": "Zamazenta", "location": "Slumbering Weald (Energy Plant Tower)", "level": 70},
+      {"name": "Eternatus", "location": "Hammerlocke Energy Plant Roof", "level": 70},
+      {"name": "Kubfu / Urshifu", "location": "Master Dojo (Isle of Armor)", "level": 30},
+      {"name": "Regieleki", "location": "Split-Decision Ruins (Crown Tundra)", "level": 70},
+      {"name": "Regidrago", "location": "Split-Decision Ruins (Crown Tundra)", "level": 70},
+      {"name": "Glastrier", "location": "Crown Shrine (Freezington Ridge)", "level": 75},
+      {"name": "Spectrier", "location": "Crown Shrine (Freezington Ridge)", "level": 75},
+      {"name": "Calyrex", "location": "Crown Shrine (Summit with Steed)", "level": 80}
+    ],
+    "paldea_gen9": [
+      {"name": "Wo-Chien", "location": "Firescourge Shrine (South Province Purple Ominous Stake Gate)", "level": 60},
+      {"name": "Chien-Pao", "location": "Icerend Shrine (West Province Yellow Ominous Stake Gate)", "level": 60},
+      {"name": "Ting-Lu", "location": "Groundblight Shrine (North Province Green Ominous Stake Gate)", "level": 60},
+      {"name": "Chi-Yu", "location": "Grasswither Shrine (East Province Blue Ominous Stake Gate)", "level": 60},
+      {"name": "Koraidon", "location": "Great Crater of Paldea (Area Zero Lab Bottom Floor)", "level": 72},
+      {"name": "Miraidon", "location": "Great Crater of Paldea (Area Zero Lab Bottom Floor)", "level": 72},
+      {"name": "Ogerpon", "location": "Dreaded Den (Kitakami Oni Mountain Summit)", "level": 70},
+      {"name": "Terapagos", "location": "Area Zero Underdepths (Deepest Crystal Cavern)", "level": 85},
+      {"name": "Pecharunt", "location": "Loyal Plaza (Kitakami Peachy's Shop)", "level": 88}
+    ]
+  }
+}
