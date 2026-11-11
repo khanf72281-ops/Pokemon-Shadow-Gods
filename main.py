@@ -62,3 +62,26 @@ def start_game():
 
 if __name__ == "__main__":
     start_game()
+# main.py के overworld_loop फंक्शन के अंदर:
+cmd = input("Command: ").strip().lower()
+
+if cmd in ["w", "a", "s", "d"]:
+    # movement logic...
+    pass
+elif cmd == "s":
+    save_data = {
+        "player_name": self.player_name,
+        "current_region": "Bharat_MP",
+        "player_pos": self.player_pos,
+        "badges": self.badges,
+        "party": [self.starter]
+    }
+    SaveLoadSystem.save_game(save_data)
+elif cmd == "l":
+    loaded_data = SaveLoadSystem.load_game(Pokemon)
+    if loaded_data:
+        self.player_name = loaded_data["player_name"]
+        self.player_pos = loaded_data["player_pos"]
+        self.badges = loaded_data["badges"]
+        self.starter = loaded_data["party"][0]
+        print(f"Swagat hai wapas, {self.player_name}! Position: {self.player_pos}")
