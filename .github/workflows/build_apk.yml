@@ -20,7 +20,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y git zip unzip openjdk-17-jdk autoconf libtool pkg-config zlib1g-dev libncurses-dev cmake libffi-dev libssl-dev build-essential
-          pip install --upgrade pip setuptools wheel
+          pip install pip==23.3.1 setuptools==65.5.0 wheel==0.41.2
           pip install buildozer cython==0.29.36 virtualenv
 
       - name: Build APK
