@@ -5,16 +5,15 @@ package.domain = org.bharat.pokemon
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json,wav,mp3
 version = 1.0
-requirements = python3,pygame
+requirements = python3,pygame==2.1.3.dev8
 orientation = landscape
 fullscreen = 1
-android.archs = armeabi-v7a, arm64-v8a
-android.api = 31
+android.archs = armeabi-v7a
+android.api = 33
 android.minapi = 21
+android.ndk = 25b
 android.accept_sdk_license = True
 
 [buildozer]
 log_level = 2
 warn_on_root = 1
-icon.filename = %(source.dir)s/icon.png
-presplash.filename = %(source.dir)s/presplash.png
