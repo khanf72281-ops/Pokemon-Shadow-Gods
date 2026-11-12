@@ -5,7 +5,7 @@ package.domain = org.bharat.pokemon
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json,wav,mp3
 version = 1.0
-requirements = python3,kivy==2.2.1
+requirements = python3,kivy
 orientation = landscape
 fullscreen = 1
 android.archs = armeabi-v7a
