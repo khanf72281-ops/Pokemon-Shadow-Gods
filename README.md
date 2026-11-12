@@ -22,3 +22,13 @@ An advanced, multiverse-spanning Pokémon RPG Engine built with Python and JSON 
 
 ## ⚖️ Disclaimer
 *Pokémon: Shadow Gods* is an unofficial, non-profit fan-made game engine created solely for educational purposes. All Pokémon trademarks and assets belong to Nintendo, Creatures Inc., and Game Freak Inc.
+# 🌌 Pokémon: Shadow Gods (Multiverse Edition)
+
+An offline, 60 FPS Action-RPG set in the **Bharat Region (Universe 2)** and **Original Multiverse (Universe 1)**.
+
+### 🔥 Key Features
+- **Real-Time Action Combat & Dodging:** Move freely, dodge Shadow Orbs, and unleash cooldown-based Soul/Dragon attacks.
+- **Overworld Partner & Catching:** Walk with your Bharat Starter and throw Pokéballs directly in the wild.
+- **Sacred Dargah Purification:** Pacify 10 Shadow Titans at Ajmer Sharif & Haji Ali Dargah.
+- **The Eternal Void Raid:** Team up with 10 Fusion Legendaries, 10 Bharat Guardians, and Gen 1–9 Champions against a 1,000 HP Dragon/Soul Primordial Boss.
+- **100% Offline & Mobile Optimized:** Built with touch controls and lightweight rendering for smooth gameplay.
